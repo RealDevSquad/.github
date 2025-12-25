@@ -8,6 +8,12 @@ Developer Name:
 ## Issue Ticket Number
 <!--Issue ticket this PR closes-->
 
+## Tech Doc Link
+<!--Issue ticket this PR closes-->
+
+## Business Doc Link
+<!--Issue ticket this PR closes-->
+
 ## Description
 
 <!--Description of the changes made in this PR-->
